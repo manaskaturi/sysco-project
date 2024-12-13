@@ -103,12 +103,10 @@ man sysopctl
 Feel free to submit issues or feature requests through the repository’s [issue tracker](<REPO_URL/issues>). Contributions via pull requests are welcome.
 
   License
-This project is licensed under the MIT License. See the  LICENSE  file for details.
+  This is intended for project purpose
 
   Disclaimer
-This tool is intended for educational and internal use only. Please ensure compliance with your organization’s policies before deploying.
+This tool is developed by Sonia Beniwal 
 
-   
 
-For questions or support, contact the project maintainer at: <your_email@example.com>.
 #
