@@ -1,0 +1,39 @@
+.TH SYSOPCTL 1 "$(date +%Y-%m-%d)" "sysopctl v0.1.0" "System Management"
+.SH NAME
+sysopctl - A command for managing system services and resources.
+.SH SYNOPSIS
+sysopctl [OPTIONS] COMMAND [ARGS]
+.SH DESCRIPTION
+This tool provides enhanced capabilities for managing Linux system resources.
+.SH OPTIONS
+.TP
+--help
+Display this help message.
+.TP
+--version
+Show the version of the command.
+.SH COMMANDS
+.TP
+service list
+List all running services.
+.TP
+system load
+Display system load averages.
+.TP
+service start <name>
+Start a specific service.
+.TP
+service stop <name>
+Stop a specific service.
+.TP
+disk usage
+Show disk usage statistics.
+.TP
+process monitor
+Monitor system processes in real-time.
+.TP
+logs analyze
+Analyze critical system logs from the past hour.
+.TP
+backup <path>
+Backup files from the given path.
